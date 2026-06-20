@@ -9,3 +9,4 @@
 | morphology.sqlite.zip | Morphology database |
 | wordsNT.data.zip | New Testament word data |
 | wordsOT.data.zip | Old Testament word data |
+| bAIC.commentary.zip | AI Book Commentary |
