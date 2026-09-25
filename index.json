@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "mib",
+      "type": "bible",
+      "path": "MIB.bible.zip",
+      "name": "Marvel Interlinear Bible",
+      "description": "Marvel Interlinear Bible",
+      "version": "1.0.0"
+    },
+    {
+      "id": "morphology",
+      "type": "core",
+      "path": "morphology.sqlite.zip",
+      "name": "Morphology database",
+      "description": "Morphology database",
+      "version": "1.0.0"
+    },
+    {
+      "id": "vaic",
+      "type": "commentary",
+      "path": "vAIC.commentary.zip",
+      "name": "AI Verse Commentary",
+      "description": "AI Verse Commentary",
+      "version": "1.0.0"
+    },
+    {
+      "id": "wordsnt",
+      "type": "core",
+      "path": "wordsNT.data.zip",
+      "name": "New Testament word data",
+      "description": "New Testament word data",
+      "version": "1.0.0"
+    },
+    {
+      "id": "wordsot",
+      "type": "core",
+      "path": "wordsOT.data.zip",
+      "name": "Old Testament word data",
+      "description": "Old Testament word data",
+      "version": "1.0.0"
+    }
+  ]
+}
