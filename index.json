@@ -21,15 +21,6 @@
       "storageName": "morphology"
     },
     {
-      "id": "vaic",
-      "type": "commentary",
-      "path": "vAIC.commentary.zip",
-      "name": "AI Verse Commentary",
-      "description": "AI Verse Commentary",
-      "version": "1.0.0",
-      "storageName": "vAIC"
-    },
-    {
       "id": "wordsnt",
       "type": "core",
       "path": "wordsNT.data.zip",
